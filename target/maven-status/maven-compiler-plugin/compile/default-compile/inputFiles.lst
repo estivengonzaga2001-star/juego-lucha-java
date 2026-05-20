@@ -1,0 +1,7 @@
+C:\JuegoLuchaFinal\src\main\java\com\juego\juego\JuegoLucha.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\model\Personaje.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\patrones\factory\CreadorPersonajes.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\patrones\factory\PersonajeFactory.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\patrones\strategy\AtaqueEstandar.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\patrones\strategy\AtaqueFuerte.java
+C:\JuegoLuchaFinal\src\main\java\com\juego\patrones\strategy\EstrategiaAtaque.java
