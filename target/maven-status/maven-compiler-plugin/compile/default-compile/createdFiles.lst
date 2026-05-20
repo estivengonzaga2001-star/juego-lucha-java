@@ -1,7 +1,0 @@
-com\juego\patrones\factory\PersonajeFactory.class
-com\juego\model\Personaje.class
-com\juego\patrones\factory\CreadorPersonajes.class
-com\juego\juego\JuegoLucha.class
-com\juego\patrones\strategy\AtaqueFuerte.class
-com\juego\patrones\strategy\AtaqueEstandar.class
-com\juego\patrones\strategy\EstrategiaAtaque.class
