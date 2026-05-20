@@ -27,7 +27,7 @@ class PersonajeTest {
     }
 
     @Test
-    @DisplayName("Debe reducir HP al recibir daño")
+    @DisplayName("Debe reducir HP al recibir daï¿½o")
     void testRecibirDano() {
         personaje.recibirDano(30);
         assertEquals(70, personaje.getPuntosDeVida());
@@ -42,7 +42,7 @@ class PersonajeTest {
     }
 
     @Test
-    @DisplayName("Uso de Mockito para fijar daño en el ataque")
+    @DisplayName("Uso de Mockito para fijar dano en el ataque")
     void testAtaqueConMock() {
         Personaje oponente = new Personaje("Oponente");
         EstrategiaAtaque ataqueMock = Mockito.mock(EstrategiaAtaque.class);
@@ -53,7 +53,7 @@ class PersonajeTest {
     }
 
     @Test
-    @DisplayName("Validar que la fábrica cree correctamente los personajes")
+    @DisplayName("Validar que la fabrica cree correctamente los personajes")
     void testFabricaPersonajes() {
         CreadorPersonajes fabrica = new CreadorPersonajes();
         Personaje p = fabrica.crearPersonaje("Estandar", "Ryu");
