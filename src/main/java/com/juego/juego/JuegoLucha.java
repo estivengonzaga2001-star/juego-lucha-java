@@ -26,9 +26,9 @@ public class JuegoLucha {
             System.out.println(jugador1.getNombre() + " ahora tiene " + jugador1.getPuntosDeVida() + " puntos de vida.\n");
         }
         if (jugador1.estaVivo()) {
-           System.out.println("🏆 " + jugador1.getNombre() + " ha ganado la pelea.");
+         System.out.println("🏆 " + jugador1.getNombre() + " ha ganado la pelea.");
         } else {
-           System.out.println("🏆 " + jugador1.getNombre() + " ha ganado la pelea.");
+         System.out.println("🏆 " + jugador2.getNombre() + " ha ganado la pelea.");
         }
     }
 

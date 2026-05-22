@@ -1,4 +1,6 @@
-package com.juego.juego;
+package com.juego;
+
+import com.juego.juego.JuegoLucha;
 
 import com.juego.model.Personaje;
 import org.junit.jupiter.api.Test;

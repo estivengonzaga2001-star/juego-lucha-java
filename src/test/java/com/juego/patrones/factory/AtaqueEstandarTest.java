@@ -1,5 +1,6 @@
-package com.juego.patrones.strategy;
+package com.juego.patrones.factory;
 
+import com.juego.patrones.strategy.AtaqueEstandar;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
